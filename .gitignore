@@ -1,0 +1,9 @@
+*.pdb
+*.vshost.exe
+*.config
+*.vshost.exe.manifest
+Temporary*.*
+*.cache
+*.csproj.*
+*.csproj
+*.manifest
